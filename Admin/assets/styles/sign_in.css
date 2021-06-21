@@ -1,0 +1,57 @@
+/* sign in  start  */
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,900,700,600,500,300,200,100,800);
+
+.login{
+    background: #67b26f;
+    background: -webkit-linear-gradient(to right, #67b26f, #4ca2cd);
+    background: linear-gradient(to right, #67b26f, #4ca2cd);
+}
+
+.login-box{
+    border-radius:10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    height: 720px;
+    background: url("https://images.pexels.com/photos/776390/pexels-photo-776390.jpeg?w=940&h=650&auto=compress&cs=tinysrgb") no-repeat scroll top center/ cover;
+    margin-top:100px;
+    margin-bottom:100px;
+    padding:50px 100px;
+}
+
+h1{
+    text-align:center;
+    margin:50px 0px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.form-control {
+    background-color: #f5f5f5;
+    box-shadow: none;
+    color: #565656;
+    font-size:14px;
+    padding:25px 10px;
+    margin-bottom:50px;
+    border: 1px solid #f1f1f1;
+}
+
+.btn{
+    background: #63af7c;
+    color: #FFF;
+    border:none;
+    border-radius: 6px;
+    margin: 0 auto;
+    height: 48px;
+    line-height: 38px;
+    display: table;
+    font-size: 15px;
+    width: 100%;
+    font-weight:600;
+}
+
+label{
+    font-weight:600;
+    color:#FFF;
+    font-size:18px;
+}
+
+/* sign vendor end */
